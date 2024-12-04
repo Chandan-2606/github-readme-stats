@@ -23,3 +23,6 @@ git commond
 
 --commit: it is the record of change
     >$git commit -m "some message"
+
+--push: upload local repo content to remote repo.
+    >$git pushorigin main
