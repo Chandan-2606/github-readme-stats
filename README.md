@@ -25,4 +25,4 @@ git commond
     >$git commit -m "some message"
 
 --push: upload local repo content to remote repo.
-    >$git pushorigin main
+    >$git push origin main
