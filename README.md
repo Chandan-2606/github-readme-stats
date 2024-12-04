@@ -11,8 +11,10 @@ git commond
 -- git clone
 
 -- git status
+
 -- untracked :new files that git doesn't yet track(new file,untracked)
 -- modified: changed(changes,modified)
+
 -- staged: file is ready tobe committed
 -- unmodified: unchanged
 
@@ -24,7 +26,7 @@ git commond
 --commit: it is the record of change
     >$git commit -m "some message"
 
---push: upload local repo content to remote repo.
+--push: upload local repo content to remote repo. 
     >$git push origin main
 
 *******************************************************************
